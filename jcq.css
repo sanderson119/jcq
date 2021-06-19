@@ -1,0 +1,66 @@
+Main {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: x-large;
+   padding-left: 4%;
+   padding-right: 4%;
+   background-color: #d8f3fa;
+   border: solid 4pt #347373;
+   
+ 
+}  
+h1, h3 {
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #eef2f5
+}
+#linkindex {
+        color:rgb(148, 5, 93);
+       
+}
+#link1 {
+    color: rgb(148, 5, 93);
+  
+}
+
+#list, #ganache  {
+    text-align: left;
+    color:black;
+}
+#hib {
+    border-color: #BFAD4C;
+    border-width: 5px;
+}
+header {
+    border: rgb(148, 5, 93)solid 5pt ;
+    text-align:center;
+    background-color: hsl(180, 46%, 54%);
+    padding-top: 3em; 
+    padding-bottom: 2em;
+    color:#eef2f5;
+}
+footer {
+    border-top: solid 2pt rgb(148, 5, 93);
+    padding-top: 3%;
+    padding-bottom:3%;
+    text-align:center;
+    background-color: hsl(180, 46%, 54%);
+    color:#eef2f5;
+    font-size: x-large;
+    padding-left: 4%;
+   padding-right: 4%;
+}
+tr {
+    text-align: center;
+    
+}
+#opening {
+    padding-top: 1%;
+}
+
+video {
+    padding-bottom: 2%
+}
+
+ #caption {
+    font-style: italic;
+}
